@@ -4,7 +4,7 @@ import (
 	stdlog "log"
 	"os"
 
-	"github.com/RFlag/ftgosafeclose"
+	"github.com/RFlag/ftgo/safeclose"
 
 	"github.com/go-redis/redis"
 	"github.com/pkg/errors"

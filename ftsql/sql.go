@@ -4,7 +4,7 @@ import (
 	stdlog "log"
 	"os"
 
-	"github.com/RFlag/ftgosafeclose"
+	"github.com/RFlag/ftgo/safeclose"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"

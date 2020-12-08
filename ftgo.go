@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"ftgo/ftconf"
-	"ftgo/safeclose"
+	"github.com/RFlag/ftgoftconf"
+	"github.com/RFlag/ftgosafeclose"
 
 	"github.com/gin-gonic/gin"
 )

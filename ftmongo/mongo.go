@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"ftgo/safeclose"
+	"github.com/RFlag/ftgosafeclose"
 
 	"github.com/pkg/errors"
 	"gopkg.in/mgo.v2"
